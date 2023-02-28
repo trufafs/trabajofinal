@@ -1,0 +1,38 @@
+
+h1{ 
+background-color: rgb(250, 204, 211)
+}
+    
+h2 {
+    background-color: bisque
+     }
+    
+    H1 {
+        border-style: 1px solid black;
+        padding: 5PX;
+        margin: 30px;
+        font-weight: bold;
+        color: black;
+    }
+    
+    h2{
+        border: 1px black;
+        padding: 5PX;
+        margin: 30px;
+        font-weight: bold;
+        color: black;
+    }
+    
+    * h1,h2,strong {color: black;
+    
+    }
+    
+    * p, ul,li {color: grey;
+    }
+
+    * button{color: red
+        ;}
+    
+ 
+    
+    
